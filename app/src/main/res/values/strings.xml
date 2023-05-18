@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">APP CAEV</string>
+    <string name="sign_in">Sign In</string>
+    <string name="usuario">Usuario</string>
+    <string name="password">Password</string>
+    <string name="iniciar_sesión">Iniciar Sesión</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="ingresar">Ingresar</string>
+</resources>
